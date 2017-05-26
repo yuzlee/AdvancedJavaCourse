@@ -1,6 +1,6 @@
 ## Practices for Advanced Java Course
 
-### Practice 1
+### Practice 1 (WordSeg)
 
 A simple Chinese segmentation system based on Hidden Markov Model.
 
